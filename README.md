@@ -16,7 +16,7 @@
 
 Motivated Data Scientist with hands-on experience building and deploying machine learning models for real-world applications. I hold a Data Science Certification from Moringa School and am pursuing a Bachelor of Economics at the University of Nairobi.
 
-I specialise in Python, SQL, deep learning, and NLP — transforming raw data into actionable insights and delivering end-to-end ML solutions from model development to production deployment.
+I specialise in Python, SQL, deep learning, and NLP  transforming raw data into actionable insights and delivering end-to-end ML solutions from model development to production deployment.
 
 ---
 
@@ -35,54 +35,62 @@ I specialise in Python, SQL, deep learning, and NLP — transforming raw data in
 
 ---
 
-## 🗂️ Projects
+## 🚀 Featured Projects
 
-### 📊 Data Science & Analysis
-| Repository | Description | Stack |
+### 🔬 Machine Learning & Deep Learning
+
+| Project | Description | Stack |
 |---|---|---|
-| [aviation-accident-analysis](https://github.com/4068-Tiffany/aviation-accident-analysis) | Exploratory analysis of aviation accident data | Python, Jupyter Notebook |
+| [Breast Cancer Survival & Treatment Prediction](https://github.com/EAlmadi/Phase5_project) | Multi-modal prediction system using genomic, clinical, and imaging data. Deployed to production on Render & Vercel. | Python, XGBoost, CNN, TensorFlow |
+| [Image Classification (CNN)](https://github.com/4068-Tiffany) | Deep learning image classifier built with transfer learning techniques. | TensorFlow, Keras |
 
 ---
 
-### 🌐 Web & Portfolio
-| Repository | Description | Stack |
+### 🗣️ NLP & Sentiment Analysis
+
+| Project | Description | Stack |
 |---|---|---|
-| [portfolio](https://github.com/4068-Tiffany/portfolio) | Personal portfolio website | HTML, CSS |
+| [Twitter (X) Sentiment Analysis](https://github.com/EAlmadi/Phase4_project) | End-to-end NLP pipeline for binary and multiclass sentiment classification (positive / negative / neutral). | Python, NLTK, Scikit-learn |
+| [Crypto Sentiment Tracker](https://github.com/4068-Tiffany/crypto-sentiment) | Scans Reddit every 5 minutes across 5 major cryptocurrencies and delivers live sentiment signals using NLP. | Python, Reddit API, NLP |
+| [Gender Bias in AI — Data Science Investigation](https://github.com/4068-Tiffany/my-portfolio) | Investigates gender bias across three distinct AI systems using real-world datasets. | Python, Data Analysis |
 
 ---
 
-### 🛢️ SQL & Databases
-| Repository | Description | Stack |
+### 🌍 Geospatial & Infrastructure
+
+| Project | Description | Stack |
 |---|---|---|
-| [dsc-grouping-data-with-sql-lab](https://github.com/4068-Tiffany/dsc-grouping-data-with-sql-lab) | SQL lab — grouping and aggregating data | Jupyter Notebook |
+| [Kenya Ports Authority — Congestion Analysis](https://github.com/4068-Tiffany/Kenya-Ports-Authority) | Evaluated port connectivity and congestion across East African ports. Applied predictive modelling to identify patterns and inform infrastructure decisions. | Python, Geospatial, ML |
 
 ---
 
-### 🧪 Learning & Coursework
-> Labs and exercises completed as part of structured data science training.
+### 🌐 Web & Applications
 
-| Repository | Description |
-|---|---|
-| [Git_practice](https://github.com/4068-Tiffany/Git_practice) | Git workflow practice |
-| [Tiffany](https://github.com/4068-Tiffany/Tiffany) | Profile / personal repo |
-| [Tiff](https://github.com/4068-Tiffany/Tiff) | Personal sandbox repo |
+| Project | Description | Stack |
+|---|---|---|
+| [KejaHaunt](https://github.com/4068-Tiffany/KejaHaunt) | Web MVP helping students find housing near campus filters by zone, budget, room type, and walking distance; estimates monthly costs. | Python, Web |
+| [My Portfolio](https://github.com/4068-Tiffany/my-portfolio) | Personal portfolio website showcasing projects and achievements. | HTML, CSS |
 
 ---
 
-## 🛠️ Skills & Tools
+### 📊 Data Analysis & SQL
 
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=flat&logo=jupyter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📫 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-4068--Tiffany-181717?style=flat&logo=github)](https://github.com/4068-Tiffany)
+| Project | Description | Stack |
+|---|---|---|
+| [Aviation Accident Analysis](https://github.com/4068-Tiffany/aviation-accident-analysis) | Exploratory analysis of aviation accident data to identify patterns and risk factors. | Python, Jupyter Notebook |
+| [SQL Data Analysis](https://github.com/4068-Tiffany) | Business insights using complex SQL queries, joins, aggregations, and structured reporting. | SQL |
 
 ---
 
-*README last updated: June 2026*
+## 🎓 Education & Certifications
+
+- **Data Science Certification** — Moringa School, 2025
+- **Bachelor of Economics** *(Ongoing)* — University of Nairobi, Expected 2028
+- Communication: Getting the Message Across — *August 2025*
+- Working with Others — *September 2025*
+- Self-Management — *October 2025*
+
+---
+
+<p align="center"><em>Always learning. Always building.</em></p>
+
